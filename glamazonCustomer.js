@@ -17,9 +17,15 @@ connection.connect(function(err){
 });
 
 function afterConnection() {
-    connection.query("SELECT * FROM products", function(err,res) {
+    connection.query("SELECT * FROM products;", function(err,res) {
         if(err) throw err;
         console.log(res);
         connection.end();
     });
-}
+} afterConnection();
+
+//prompt user to choose an item
+//prompt user to choose quantity
+//check database for quanitity check
+//fufill order and display total price
+//update database with new quantity total
