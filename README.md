@@ -20,6 +20,9 @@ The customer is then prompted to select a quantity for the product. <br>
 If the product and quantity are available, the customer is alerted the purchased was successful and the table (database) will reflect the remaining quantity amount of the purchased product. <br>
 <img src="images/glam3.png" width="325">
 
+### Demo
+<video src="glamvid.webm" width="320" height="200" controls preload></video>
+
 ### Technologies Used
 * Node.js
 * MySQL Workbench
