@@ -22,7 +22,7 @@ If the product and quantity are available, the customer is alerted the purchased
 
 ### Demo
 <video width="320" height="200" controls preload> 
-    <source src="glamvid.webm"></source> 
+    <source src="glamvid.webm"/>
 </video>
 
 ### Technologies Used
