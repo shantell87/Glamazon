@@ -12,7 +12,17 @@ In order to run this application, you should have the MySQL database already set
 
 ### Screenshots
 The customer will begin by viewing the stores inventory and prompted to selected an item using the ID number. The customer also has the open to exit the store by typing "q".
-<img src="assets/images/glam1.png" width="325"> <br>
+<img src="./assets/images.glam1.png" width="325"> <br>
+
 The customer is then prompted to select a quantity for the product.
-<img src="assets/images/glam2.png" width="325"> <br>
+<img src="./assets/images/glam2.png" width="325"> <br>
+
 If the product and quantity are available, the customer is alerted the purchased was successful and the table (database) will reflect the remaining quantity amount of the purchased product.
+<img src="./assets/images/glam3.png" width="325">
+
+### Technologies Used
+* Node.js
+* MySQL Workbench
+
+## Author
+_Shantell Davis_
