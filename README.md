@@ -21,7 +21,9 @@ If the product and quantity are available, the customer is alerted the purchased
 <img src="images/glam3.png" width="325">
 
 ### Demo
-<video src="glamvid.webm" width="320" height="200" controls preload></video>
+<video width="320" height="200" controls preload> 
+    <source src="glamvid.webm"></source> 
+</video>
 
 ### Technologies Used
 * Node.js
